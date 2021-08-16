@@ -22,3 +22,32 @@ While I had used an Arduino Uno for the car and Arduino Nano for the remote on t
 
 1. [Accelerometer & Gyroscope](https://amzn.to/3skE855) For the sensors, I obviously needed a Accelerometer and Gyroscope. I settled on the [MPU6050](https://amzn.to/3skE855) primarily because it was not too expensive and I found a number of tutorials online on using it.
 
+2. [Pulse Sensor](https://amzn.to/3xKbThz) It turned out that the pulse sensor does not work well when connected to a dog vest. Abandoned the idea, bt still looking for a good way to get the pulse reading. I can see that he's panting before, during and after a seizure.
+
+3. [GPS Sensor](https://amzn.to/3skeQnO) Added the Neo-6M GPS module to the mix to see if I could geocode his location and notify myself if he ever wandered out of the yard.
+
+### Other Items
+
+1. [Prototype board](https://amzn.to/2UjII79) to minify the sensor components when done.
+2. [Connecting Wires](https://amzn.to/3CUrr6e) to connect and solder the components
+3. Soldering iron
+4. Hot glue gun 
+5. Battery. Rather than try and provide a 3.3V input to the circuit, I am currently using 5V input, the converter to 3.3V is coming in a future version!
+
+### Connections
+
+For the initial prototype I only have the MPU6050 connected. Here's the wiring diagram 
+![Connections](https://imgs/connections.png)
+
+1. MPU6050
+
+
+### Sensor Code
+ 
+Sampleing rate (10/sec)
+Frequency (10 sec with a pause of 30 sec)
+Using multiple cores (1 for Wifi and sending data one for sensor)
+
+#### Cloud Environment
+
+
