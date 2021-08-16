@@ -1,8 +1,8 @@
 ## The Oscar Project
 
-I started the [Oscar project](https://github.com/dhruv-kurpad/oscarProject) with the goal of being notified when my dog was having a seizure. Osacr was a [English Cream Golden Retriever](https://www.loveyourdog.com/english-cream-retriever/) who had a great life! Over the last 6 months Oscar started having seizures that eventually needed him to be medicated. As we were often out of the house, I was concerned that Oscar might have a seizure when noone was around to help him. 
+I started the [Oscar project](https://github.com/dhruv-kurpad/oscarProject) with the goal of being notified when my dog was having a seizure. Osacr was a [English Cream Golden Retriever](https://www.loveyourdog.com/english-cream-retriever/) who had a great life! Over the last 6 months Oscar started having seizures that continued to get more frequent and intense. As we were often out of the house, I was concerned that Oscar might have a seizure when none was around to help him. 
 
-I wanted to build a app that ould notify me if Oscar was having a seizure so I could head home and check on him if he was alone.
+I wanted to build an app that could notify me if Oscar was having a seizure so I could head home and check on him if he was alone.
 
 ## Planning
 With the idea of building an app that could identify a seizure and notify me I started looking for ways to build it. In the summer before my junior year, I had built a RC Car from scratch following the awesome tutorials from [Dronebot Workshop](https://dronebotworkshop.com/nrf24l01-wireless-joystick/). 
