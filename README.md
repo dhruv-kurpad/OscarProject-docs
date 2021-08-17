@@ -1,5 +1,5 @@
 ## The Oscar Project
-![Photos of Oscar]https://github.com/dhruv-kurpad/OscarProject-docs/blob/main/OscarGIF.gif "Some of my favorite photos of Oscar")
+![Photos of Oscar](https://github.com/dhruv-kurpad/OscarProject-docs/blob/main/OscarGIF.gif "Some of my favorite photos of Oscar")
 I started the [Oscar project](https://github.com/dhruv-kurpad/oscarProject) with the goal of being notified when my dog was having a seizure. Osacr was a [English Cream Golden Retriever](https://www.loveyourdog.com/english-cream-retriever/) who had a great life! Over the last 6 months Oscar started having seizures that continued to get more frequent and intense. As we were often out of the house, I was concerned that Oscar might have a seizure when none was around to help him. test
 
 I wanted to build an app that could notify me if Oscar was having a seizure so I could head home and check on him if he was alone.
@@ -35,10 +35,9 @@ While I had used an Arduino Uno for the car and Arduino Nano for the remote on t
 5. Battery. Rather than try and provide a 3.3V input to the circuit, I am currently using 5V input, the converter to 3.3V is coming in a future version!
 
 ### Connections
-![Oscar wearing first prototype]https://github.com/dhruv-kurpad/OscarProject-docs/blob/main/Screenshot%20(1).png "First prototype")
 For the initial prototype I only have the MPU6050 connected. Here's the wiring diagram 
 ![Connections](https://imgs/connections.png)
-
+![Oscar wearing first prototype](https://github.com/dhruv-kurpad/OscarProject-docs/blob/main/Screenshot%20(1).png)
 1. MPU6050
 
 
