@@ -37,7 +37,7 @@ While I had used an Arduino Uno for the car and Arduino Nano for the remote on t
 ### Connections
 For the initial prototype I only have the MPU6050 connected. Here's the wiring diagram 
 ![Connections](https://imgs/connections.png)
-![Oscar wearing first prototype](https://github.com/dhruv-kurpad/OscarProject-docs/blob/main/Screenshot%20(1).png)
+![Oscar wearing first prototype](images/oscar_with_sensor.png)
 1. MPU6050
 
 
