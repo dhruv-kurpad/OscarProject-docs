@@ -1,5 +1,5 @@
 ## The Oscar Project
-![Photos of Oscar](https://github.com/dhruv-kurpad/OscarProject-docs/blob/main/OscarGIF.gif "Some of my favorite photos of Oscar")
+![Photos of Oscar](images/OscarGIF.gif "Some of my favorite photos of Oscar")
 I started the [Oscar project](https://github.com/dhruv-kurpad/oscarProject) with the goal of being notified when my dog was having a seizure. Osacr was a [English Cream Golden Retriever](https://www.loveyourdog.com/english-cream-retriever/) who had a great life! Over the last 6 months Oscar started having seizures that continued to get more frequent and intense. As we were often out of the house, I was concerned that Oscar might have a seizure when none was around to help him. test
 
 I wanted to build an app that could notify me if Oscar was having a seizure so I could head home and check on him if he was alone.
