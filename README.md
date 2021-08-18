@@ -2,7 +2,7 @@
 ![Photos of Oscar](images/OscarGIF.gif "Some of my favorite photos of Oscar")
 
 
-I started the [Oscar project](https://github.com/dhruv-kurpad/oscarProject) with the goal of being notified when my dog was having a seizure. Osacr was a [English Cream Golden Retriever](https://www.loveyourdog.com/english-cream-retriever/) who had a great life! Over the last 6 months Oscar started having seizures that continued to get more frequent and intense. As we were often out of the house, I was concerned that Oscar might have a seizure when none was around to help him. test
+I started the [Oscar project](https://github.com/dhruv-kurpad/oscarProject) with the goal of being notified when my dog was having a seizure. Osacr was a [English Cream Golden Retriever](https://www.loveyourdog.com/english-cream-retriever/) who had a great life! Over the last 6 months Oscar started having seizures that continued to get more frequent and intense. As we were often out of the house, I was concerned that Oscar might have a seizure when none was around to help him. 
 
 I wanted to build an app that could notify me if Oscar was having a seizure so I could head home and check on him if he was alone.
 
@@ -46,6 +46,10 @@ For the initial prototype I only have the MPU6050 connected. Here's the wiring d
 ![Oscar wearing first prototype](images/oscar_with_sensor.png)
 1. MPU6050
 
+### The Vest
+After all the components were put together I needed to do the following so that Oscar could use it.
+1. I placed the components in an old nutmeg container after wrapping them in a paper towel so they wouldn't be damaged(I chose a nutmeg container simply becuase it was the right size and available in my house).
+2. I then used a hot glue gun to attach both the nutmeg container and the power source to the harness(I also added a mustache). 
 
 ### Sensor Code
  
@@ -55,5 +59,4 @@ Using multiple cores (1 for Wifi and sending data one for sensor)
 
 #### Cloud Environment
 
-#### Link to the project repository
-[Click here](https://github.com/dhruv-kurpad/oscarProject)
+#### Link to the project repository-[Click here](https://github.com/dhruv-kurpad/oscarProject)
