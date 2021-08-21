@@ -70,6 +70,8 @@ For the sensor, I use one core of the ESP32 to collect readings from the sensor.
 After 10 seconds or 100 readings, I drop a message on a queue that a second task running on the the other core picks up and sends it to the cloud.
 
 #### Cloud Environment
-Created an Azure Function to save all the readings and use movement thresholds to determine if the readings are related to a seizure. If a seizure is detected, use an Azure Notification service to send a text message to my phone. The code for the Azure Function is in the cloud folder of the repo
+Created an Azure Function to save all the readings and use movement thresholds to determine if the readings are related to a seizure. If a seizure is detected, use an Azure Notification service to send a text message to my phone. The code for the Azure Function is in the cloud folder of the link below.
 
-#### Link to the project repository-[Click here](https://github.com/dhruv-kurpad/oscarProject)
+![What's working now](images/oscar_sensor.png)
+
+#### [Link to the project code - Click here](https://github.com/dhruv-kurpad/oscarProject)
