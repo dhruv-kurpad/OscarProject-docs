@@ -47,7 +47,8 @@ For the initial prototype I only have the MPU6050 connected. Here's the wiring d
 
 1. MPU6050 
 
-![Wiring](images/img_2267.jpg)
+![Wiring](images/IMG_2267.jpg)
+
 Connected the MPU6050 using the pinouts described above. Here's the Accelerometer working with the readings being printed out on the screen.
 
 
@@ -55,7 +56,7 @@ Connected the MPU6050 using the pinouts described above. Here's the Acceleromete
 
 An image of the completed vest
 
-![Wiring](images/img_2279.jpg)
+![Completed Vest](images/IMG_2279.jpg)
 ### The Vest
 After all the components were put together I needed to do the following so that Oscar could use it.
 1. I placed the components in an old nutmeg container after wrapping them in a paper towel so they wouldn't be damaged(I chose a nutmeg container simply becuase it was the right size and available in my house). I plan on 3D printing a real container, but this works for the test.
