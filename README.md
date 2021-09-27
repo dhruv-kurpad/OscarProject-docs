@@ -74,4 +74,11 @@ Created an Azure Function to save all the readings and use movement thresholds t
 
 ![What's working now](images/oscar_sensor.png)
 
+### Results
+
+Overall the solution worked really well! I did have quite a few false positives, but was able to make update the parameters on the motion detection to only notify me when the activity lasted more than 10 seconds. 
+
+I also found the heart rate monitor just did not work well for dogs. It needed firm contact with the skin and ttaching it to the inside of the harness did not work. I am researching other options to get the heart rate. 
+
+
 #### [Link to the project code - Click here](https://github.com/dhruv-kurpad/oscarProject)
